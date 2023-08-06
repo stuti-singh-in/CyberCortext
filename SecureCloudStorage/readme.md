@@ -4,7 +4,7 @@
 
 # Secure Cloud Storage
 
-University Project for "Foundations of Cybersecurity" course (MSc Computer Engineering @ University of Pisa). Implementation of a Secure Cloud Storage using `C++ 17` and `OpenSSL 1.1.1` library.
+Learning Project for "Foundations of Cybersecurity". Implementation of a Secure Cloud Storage using `C++ 17` and `OpenSSL 1.1.1` library.
 
 ## Overview
 
